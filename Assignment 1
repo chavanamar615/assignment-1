@@ -1,0 +1,61 @@
+Q1)WHAT IS A WEB SERVICE?
+A Web service is a software system designed to support interoperable machine-tomachine interaction over a network. 
+It has an interface described in a machineprocessable format (specifically WSDL). Other systems interact with the Web service
+in a manner prescribed by its d
+Web services are platform independent as they use open protocolsescription using SOAP messages, typically conveyed
+using HTTP with an XML serialization in conjunction with other Web-related standards.
+
+Q2)EXPLAIN DIFFERENCE BETWEEN WEBSITE AND WEB SERVICE.
+A)WEB SERVICE:
+A web service doesn’t have a user interface.	
+Web services are meant for other applications to be interacted with over the internet.
+Web services are platform independent as they use open protocols.
+Web services are accessed by HTTP methods – GET, POST, PUT, DELETE, etc.
+E.g. Google maps API is a web service that can be used by websites to display Maps by passing coordinates to it.
+
+B)WEBSITES:
+A website has a user interface or GUI.
+Websites are meant for use by humans.
+Websites are cross-platform as they require tweaking to operate on different browsers, operating systems, etc.
+Websites are accessed by using their GUI components – buttons, text boxes, forms, etc.
+E.g. ArtOfTesting.com is a website that has a collection of related web pages containing tutorials.
+
+Q3)WHAT IS URL?WHAT ARE THE PARTS IN URL?
+A URL (Uniform Resource Locator) is a unique identifier used to locate a resource on the Internet. 
+It is also referred to as a web address. URLs consist of multiple parts -- including a
+protocol and domain name -- that tell a web browser how and where to retrieve a resource.
+
+PARTS OF A URL
+Using the URL https://www.techtarget.com/whatis/search/query?q=URL as an example, components of a URL can include:
+
+1.The protocol or scheme. Used to access a resource on the internet. Protocols include http, https, ftps, mailto and file.
+The resource is reached through the domain name system (DNS) name. In this example, the protocol is https.
+
+2.Host name or domain name. The unique reference the represents a webpage. For this example, whatis.techtarget.com.
+
+3.Port name. Usually not visible in URLs, but necessary. Always following a colon, port 80 is the default port for web servers,
+but there are other options. For example, :port80.
+
+4.Path. A path refers to a file or location on the web server. For this example, search/query.
+
+5.Query. Found in the URL of dynamic pages. The query consists of a question mark, followed by parameters. For this example, ?.
+
+6.Parameters. Pieces of information in a query string of a URL. Multiple parameters can be separated by ampersands (&).
+For this example, q=URL.
+
+7.Fragment. This is an internal page reference, which refers to a section within the webpage. 
+It appears at the end of a URL and begins with a hashtag (#). 
+Although not in the example above, an example could be #history in the URL https://en.wikipedia.org/wiki/Internet#History.
+
+
+Q4)WHAT IS A DOMAIN?
+A domain is a network of computers and devices that are controlled by one set authority and have specific guidelines.
+More specifically, a domain is controlled by one particular company that has its own internet presence and IP address. 
+The domain is labeled by its domain name, such as Webopedia or webopedia.com.
+
+
+Q5) WHAT IS HOSTING?
+Hosting, in its most generic sense, is a service through which storage and computing resources are providing to 
+an individual or organization for the accommodation and maintenance of one or more websites and related services. 
+While hosting doesn't need to be IP-based, the vast majority of instances are web-based services that allow a website
+or web service to be globally accessible from the Internet.
